@@ -4,7 +4,7 @@
 
 ### Intelligent Voice-Powered University Assistant
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue?style=for-the-badge)](https://huggingface.co/spaces/zahidforai/askuni-voice-agent)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue?style=for-the-badge)](https://zahidforai-askuni-voice-agent.hf.space/)
 
 **[Live Demo](https://zahidforai-askuni-voice-agent.hf.space/)** 
 
