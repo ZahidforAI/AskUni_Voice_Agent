@@ -5,11 +5,8 @@
 ### Intelligent Voice-Powered University Assistant
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue?style=for-the-badge)](https://huggingface.co/spaces/zahidforai/askuni-voice-agent)
-[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**[Live Demo](https://zahidforai-askuni-voice-agent.hf.space/)** • **[Documentation](#documentation)** • **[Report Bug](https://github.com/yourusername/AskUni-Voice-Agent/issues)** • **[Request Feature](https://github.com/yourusername/AskUni-Voice-Agent/issues)**
+**[Live Demo](https://zahidforai-askuni-voice-agent.hf.space/)** 
 
 <img src="voice_agent.png" alt="AskUni Demo" width="800px" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
 
