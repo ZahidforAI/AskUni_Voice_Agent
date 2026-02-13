@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+# faiss_index/
+# UNIVERSITY/
+.vscode/
+venv/
+node_modules/
