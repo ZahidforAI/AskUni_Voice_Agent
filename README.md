@@ -9,7 +9,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**[Live Demo](https://huggingface.co/spaces/zahidforai/askuni-voice-agent)** • **[Documentation](#documentation)** • **[Report Bug](https://github.com/yourusername/AskUni-Voice-Agent/issues)** • **[Request Feature](https://github.com/yourusername/AskUni-Voice-Agent/issues)**
+**[Live Demo](https://zahidforai-askuni-voice-agent.hf.space/)** • **[Documentation](#documentation)** • **[Report Bug](https://github.com/yourusername/AskUni-Voice-Agent/issues)** • **[Request Feature](https://github.com/yourusername/AskUni-Voice-Agent/issues)**
 
 <img src="voice_agent.png" alt="AskUni Demo" width="800px" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
 
