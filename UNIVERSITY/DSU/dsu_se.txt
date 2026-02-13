@@ -1,0 +1,19 @@
+The Bachelor of Science in Software Engineering (BS-SE) Program spans over four years (Eight Semesters) with a total of 133 credit hours. The minimum CGPA of 2.0 (on a scale of 4.0) is required to obtain BS-SE degree. The courses are designed to meet the requirement of the Software Industry.
+The BS-SE degree program consists of Computing-core courses, General education courses, Mathematics and Science foundation courses with specialization in the following suggested areas:-
+Artificial Intelligence (AI), Data Warehousing & Data Mining, Digital Image Processing, E-Commerce, Global Software development, Information Security. Mobile Application Development, Simulation and Modeling, Multimedia Communications, Operation Research
+
+FACULTY
+The Department of Computer Science at DSU has highly qualified faculty possessing vast experience of teaching and research at leading universities. Most of them also have rich experience of working in the industry. The faculty is actively engaged in developing solutions for the present problems using futuristic concepts. Such projects have great potential for local and international fundings and grants. The faculty in the Department of Computer Science provides guidance to do research in many areas including Artificial Intelligence, Bio-Informatics, Distributed & Parallel Computing, Information Security, Multimedia & Game Development, Graphics & Visualization, and Software Engineering.
+
+
+
+LABS
+Computer Science Laboratories at DSU provide students with hands-on experience in analysis, design, coding, and testing activities for computational problems. Computing tools and devices are powered by state-of-the-art Data Center to assist in the construction and analysis of computing intensive applications. The laboratory experiences provide opportunities for students to explore and learn core computing practices and prepare for industrial liaison and entrepreneurship. The Department of Computer Science at the DHA Suffa University has established the following labs to cater to the needs of students and researchers:
+
+
+
+INDUSTRIAL LIAISON
+The Department of Computer Science at DSU has launched initiatives with various software houses, IT companies, and professional bodies for keeping the curriculum up-to-date and in coherence with the demand of the industry. For these purposes, the department is focusing on different training programs for students as well as for the faculty. Furthermore, seminar sessions by senior IT entrepreneurs and professionals being held also motivate the students and provide them a direction to envision themselves as future entrepreneurs. The Department also plans to develop technology incubators in the near future which will enable students to work on real-world projects during their vacations or as their course projects.
+
+CAREERS
+Department of Computer Science at DSU has initiated steps for career advancement of its students with various software houses and IT companies. Some of the careers that a computer science graduate of DSU can pursue include IT Entrepreneur, Information Technology Manager, Information Technology Consultant, Software Architect, System Analyst, Software Engineer, Web Application Developer, Database Administrator, Network Administrator, Software Quality Assurance Analyst, Faculty Member in the academia, etc. There are numerous opportunities available for computer science graduates of DSU both within Pakistan and abroad. Research and development is also a lucrative prospect for CS graduates. Further academic achievement can take place via MS / PhD, or trade certifications.

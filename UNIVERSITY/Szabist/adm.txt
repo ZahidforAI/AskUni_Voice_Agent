@@ -1,0 +1,154 @@
+Here are the SZABIST University admission requirements formatted for use in a model or knowledge base:
+
+GENERAL REQUIREMENTS AND GUIDELINES
+
+All applicants will be required to appear in an entrance test and interview/group discussion held by SZABIST University.
+Conversion of A-Level grades or equivalent must be 50% and above for all undergraduate programs.
+Intermediate students are required to get their SSC and HSSC marksheets/certificates attested by inter board committee of chairmen (IBCC).
+Equivalency from Inter Board Committee of Chairmen (IBCC) is mandatory for O & A Levels/High School Diploma/IB Diploma or equivalent.
+High School Diploma or International Baccalaureate (IB) students appearing for examination from Pakistan shall have to pass Islamiat, Pakistan Studies & Urdu either with O Levels or SSC.
+Verification of last degree from Higher Education Commission of Pakistan (HEC) is mandatory for all Masters, MS, & PhD students.
+Equivalency of international degrees from Higher Education Commission of Pakistan (HEC) is mandatory for all Masters, MS, & PhD students.
+Students waiting for results can also apply.
+Admission of Foreign students are subject to clearance from the relevant Agencies/NoC from HEC.
+
+PROGRAM SPECIFIC ADMISSION REQUIREMENTS
+
+BBA, BABS, BS Accounting & Finance, BS Entrepreneurship, BS Business Analytics, BS Computer Science, BS Artificial Intelligence, BS Software Engineering, Bachelor of Media Science, BS Economics with Data Science, BS Sociology, BS International Relations, BS Development Studies, BS Psychology and BS English**
+For admission in the BBA/BABS/BS programs, the candidate must have completed O-Levels (minimum 8 subjects including 5 compulsory subjects; English, Urdu, Maths, Islamiat & Pakistan Studies) and A-levels (minimum 3 Subjects)/12th Grade/Intermediate with minimum 50% marks or equivalent from a recognized institution.
+For BS Computer Science, Software Engineering candidates with mathematical background will be preferred.
+For BS Artificial Intelligence, BS Computer Science & BS Software Engineering programs candidates who have not studied Mathematics at intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.
+
+**BE Mechatronic**
+For admission in the BE Mechatronic program, the candidate must have completed Intermediate in Pre-Engineering/ Computer Science/ Pre-Medical with a combination of (Physics, Biology/Mathematics, and Computer Science/Chemistry) OR A-levels (minimum 3 subjects) or equivalent with a combination of (Physics, Biology/Mathematics, and Computer Science/Chemistry) and Matric/O-Levels (minimum 8 subjects including 5 compulsory subjects: English, Urdu, Maths, Islamiat & Pakistan Studies) in Science group with minimum 60% marks.
+Equivalency of grades for the candidates having Cambridge High School Certificate are obtained as follows:
+A-Level Grade A = 85% equivalent
+A-Level Grade B = 75% equivalent
+A-Level Grade C = 65% equivalent
+A-Level Grade D = 55% equivalent
+A-Level Grade E = 45% equivalent
+Candidates with DAE (Mechanical/ Mechatronics/ Artificial Intelligence/ Electronics/ Electrical/ Instrumentation and Process Control/ Instruments/ Automation) having at least 60% aggregate marks from an institute recognized by the HEC can also apply.
+For BEME candidates who have not studied Mathematics or Chemistry at Intermediate/A-Levels have to pass deficiency course(s) in first year.
+
+**BS Autonomous Systems and Artificial Intelligence**
+For admission to the BS Autonomous Systems and Artificial Intelligence program, the candidates must have completed Intermediate in Pre-Engineering/ Computer Science/ Pre-Medical/ with a combination of (Physics, Biology/Mathematics, and Computer Science/Chemistry) OR A-levels (minimum 3 subjects) or equivalent with a combination of (Physics, Biology/Mathematics, and Computer Science/Chemistry) with a minimum of 50% marks, and Matric / O-Levels (minimum 8 subjects including 5 compulsory subjects; English, Urdu, Maths, Islamiat & Pakistan Studies). Candidates with a DAE qualification are also eligible to apply.
+For BSASAI candidates who have not studied Mathematics at Intermediate/ A-Levels have to pass deficiency course in first year.
+
+**BS Biosciences, BS Biotechnology, BS Food Science and Technology, BS Computational Biology with Artificial Intelligence , BS Public Health and BS Nutrition and Dietetics**
+The candidates are required to have 50% marks in Intermediate (FSc with Pre-Medical or FSc with Pre-Engineering) or O-Levels (minimum 8 subjects including 5 compulsory subjects; English, Urdu, Maths, Islamiat & Pakistan Studies) and A-levels (minimum 3 subjects including any two of these subjects; Biology, Chemistry, and Physics).
+
+**BS (Accounting & Finance) 2.5 years**
+For admission in the BS (Accounting & Finance) 2.5-year program, the candidate must have completed O-Levels (minimum 8 subjects including 5 compulsory subjects; English, Urdu, Maths, Islamiat & Pakistan Studies), A-levels (minimum 3 Subjects)/12th Grade/Intermediate with minimum 50% marks or equivalent from a recognized institution and Certificate in Accounting & Finance (CAF) duly verified by the Institute of Chartered Accountants of Pakistan (ICAP).
+
+**LLB University of London (Recognized Teaching Centre)**
+To be eligible to register for this LLB program, you must normally be at least 17 years of age and one of the following should be applicable:
+three subjects at GCE A level (with one A Level at not less than grade D)
+two subjects at GCE A level, and at least three further subjects at GCSE/ GCE O level (at not less than grade C)
+three subjects at GCE A level, and one further subject at GCSE/GCEO Level (at not less than grade C)
+two subjects at GCE A Level, and two further subjects at AS Level.
+Note: Overlapping subjects in O Levels and in A Levels will not be counted.
+Bachelor's degree in any discipline (awarded by an institution acceptable to the University of London).
+A 4-year bachelor's degree (in any discipline) awarded by an institution acceptable to University of London may register for LLB degree under the Graduate Entry Route.
+A 2 year bachelor's degree and a Master's degree (in any disciplines) awarded by institutions acceptable to University of London may register for LLB degree under the Graduate Entry Route.
+
+**English Language Requirements for LLB**
+You should fulfill one of the following requirements at the time of admission:
+IGCSE/ GCE O' Levels English as a Second Language passed at grade C or above.
+International English Language Testing System (IELTS) when an overall score of at least 6 with a minimum of 5.5 in each sub-test. (Given in the last 3 years)
+(TOEFL) iBT Test of English as a Foreign Language: 87 overall, with 21+ in Reading and Writing sub-tests and 19+ in Speaking and Listening sub-tests. (Given in the last 3 years)
+
+**Certificate of Higher Education in Common Law (CertHE)**
+To be eligible to register for this CertHE programme, you must be at least 18 years of age and one of the following should be applicable:
+Pass in Intermediate with minimum 55% in total OR
+6 passes in GCE O-Level
+CertHE Entrance Tests & Interview: If you fulfill the admissions requirements as above, you must also pass the test conducted by University of London at SZABIST University. Once you have passed this test, the last requirement before registration is to pass is an interview conducted at SZABIST University.
+
+**Bachelor of Education (B.ED) 1.5 Years**
+For admission in the B.Ed. program, the candidate must possess 16-years of Education (MA, M.Sc., M.Com. or equivalent) in any discipline with minimum Second Division/2.00 CGPA from a university recognized by HEC.
+
+**Master of Advertising (MoA)**
+Students with a 4-year undergraduate degree or 16 years of education with minimum 50% marks/2.0 CGPA from a university recognized by the HEC are eligible to apply.
+
+**Master of Business Administration (MBA) (Regular/Weekend)**
+For admission in the MBA program, the candidate must possess a 4 years bachelor degree with minimum 2.0 CGPA or 16 years of education with minimum 50% marks from a university recognized by the HEC.
+
+**Master of Project Management (MPM) (Regular/Weekend)**
+For admission in the MPM program, the applicant must possess a minimum of sixteen years of education/4-year Bachelor/Masters degree from an HEC recognized educational institute with a minimum of 50% marks/2.0 CGPA.
+
+**Master of Science – Project Management (MS PM)**
+For admission in the MSPM program, the applicant must possess a minimum of 16 years of education/4-year Bachelor/Master degree with a minimum of 2.0 CGPA or a minimum 50% marks from an HEC recognized university. Candidates are also required to pass GAT General/HAT relevant with a minimum 50% score.
+
+**Master of Science in Management Sciences (MS MS)**
+For admission to MS Management Sciences candidates must possess 16 years of relevant education with minimum 50% marks/2.0 CGPA from a university recognized by HEC. GAT (General) or HAT relevant is mandatory for MS students with minimum 50% score.
+
+**Master of Science in Finance & Economics (MSFE)**
+For admission in MS Finance & Economics program candidate must possess a minimum of 16 years of education or 04-years Bachelor/Master degree in relevant discipline with minimum 2.0 CGPA or 50% marks from an HEC recognized educational institution. GAT (General) or HAT relevant is mandatory for MS students with minimum 50% score.
+
+**Master of Media Science (MMS)**
+For admission to the MMS, Program candidates must possess 16 years of education with a minimum 2nd division /2.00 CGPA from an HEC recognized university in a related field of Media, advertising, communication design, applied or performance arts.
+Candidates with 4-year non-media-related discipline degrees (BBA, BSCS, MSc., MCom., MA, etc.) may apply but will require to complete deficiency conversion courses (Up to 12 credit hours to be determined in consultation with Admission, Committee). Students need to complete remedial/deficiency courses (up to 12 credits hours) in the first semester before they will be permitted to continue regular courses. This semester will be considered a zero semester and the credits will not contribute to the CGPA. These courses will be mentioned on the transcript with a zero GPA. The length of the completion of the degree will increase by one semester though the maximum limit of four years of degree completion will remain the same.
+Students must complete GAT or HAT relevant with a minimum of 50% score.
+
+**Master of Science in Biosciences (MS Bio)**
+For admissions in the MS Biosciences program, candidates must possess 16 years of education in any field of life/biological sciences with minimum 50% marks/2.0 CGPA from a university recognized by HEC. GAT General/HAT relevant is mandatory for MS students with minimum 50% score.
+
+**Master of Science in Biotechnology (MS Biotech)**
+For admissions in the MS Biotechnology program, candidates must possess 16 years of education in any field of life/biological sciences with minimum 50% marks/2.0 CGPA from a university recognized by HEC. GAT General/HAT relevant is mandatory for MS students with minimum 50% score.
+
+**Master of Science in Public Health (MSPH)**
+For admissions in the MSPH program, the candidate must have 16 years of education with minimum 50% marks/2.0 CGPA from a university recognized by HEC. GAT General/HAT relevant is mandatory for MS students with minimum 50% score.
+Following candidates will be eligible to take MSPH Program of 38 credit hours:
+MBBS/BDS/MD/BSc Nursing 4 Years/DVM/BSc Paramedics-4 years/BSPH/Pharm D/BS Physiotherapy and BS Biological & Life Sciences/Medical Technology / Vision Sciences / Equivalent
+Following degree holders will be eligible to take MSPH of 62 credit hours:
+Masters in Environmental Sciences / Business Administration / Nutrition and Social Sciences (Sociology /Psychology/Anthropology) / Bio-Medical Engineering/ Statistics / Dental Hygiene / Equivalent. GAT General/HAT relevant is mandatory for MSPH students with minimum 50% score.
+
+**Master of Science in Computer Science**
+For admission to MSCS program, candidates must possess 16 years of relevant education with minimum 50% marks/2.0 CGPA from a university recognized by HEC. GAT (General) or HAT relevant is mandatory for MS students with minimum 50% score.
+
+**Master of Science in Cyber Security**
+For admission to MS CSY program, candidates must possess 16 years of relevant education with minimum 50% marks/2.0 CGPA from a university recognized by HEC. GAT (General) or HAT relevant is mandatory for MS students with minimum 50% score.
+
+**Master of Science in Data Science (MSDS)**
+For admission to the MS (Data Science) program candidates must possess 16 years of relevant education (4 years BSCS or equivalent) with a minimum of 50% marks / 2.0 CGPA from HEC recognized University / Institute.
+The students with 16 years of education in the disciplines of Information Technology, Software Engineering, Computer Engineering, Electrical Engineering, Statistics, Mathematics, Business Administration, Accounting & Finance, Economics, or other relevant disciplines, are also eligible to apply provided that they take deficiency courses and GAT (General) or HAT relevant is mandatory for MS students with minimum 50% score.
+
+**MS SS (International Relations, Economics, Psychology & Sociology)**
+For admission in MS SS (International Relations, Economics, Psychology & Sociology) program, candidates must possess 16 years of relevant education with minimum 2nd Division/2.0 CGPA from a university recognized by HEC. GAT (General)/HAT relevant is mandatory for MS students with minimum 50% score.
+
+**Master of Science – Educational Leadership and Management (MS ELM)**
+For admission in MS ELM program, the candidate must possess 16-years of education in the discipline of education with minimum second division/2.0 CGPA from an HEC recognized institution. Or 16-years of Education in any other field may apply but will require to complete six deficiency courses.
+GAT General/HAT relevant with minimum 50% score is also required.
+Note: Candidates applying with 16 years of Education and 1-year B.Ed. degree are required to complete 06 bridging courses of 18 credits at SZABIST.
+
+**PhD Programs (Management Sciences, Computing, Biosciences, Biotechnology, Educational Leadership & Management, Social Sciences)**
+A candidate with MA/MS/MBA/MPhil or any other equivalent degree with minimum 17.5 years of formal education in the relevant field from HEC recognized local or foreign university may apply for direct admission in a PhD program. To apply for admission in PhD program, the candidate must have obtained minimum of 3.0 CGPA, and have passed GRE/Equivalent/GAT (subject) with minimum 60% score. Clearing GAT (Subjective)/GRE/Equivalent is mandatory for admission in PhD. Student would have to appear before admission committee for interview.
+For Ph.D. Biosciences, SZABIST's own GAT Subject test has to be cleared with 70% score at the time of admission.
+A student may be asked to complete other pre-requisite /deficiency courses/thesis before taking the required courses. The decision on number of pre-requisite courses is taken by the Admissions Committee of relevant department. For non-relevant degrees, the candidate will be required to register for additional Masters level courses as pre-requisites as per the guidance provided by the Admissions Committee.
+The PhD applicant has to submit "Statement of Purpose" at the time of admission registration.
+The statement of purpose shall, at least, include the following:
+i. Title of the potential research proposal
+ii. Clear articulation of the current understanding of the intended field and ideas for potential research
+iii. Explanation of the intended impact of the proposed research,
+iv. The prospective candidates shall demonstrate passion and enthusiasm for the area of research.
+
+**ADMISSION TEST ALTERNATIVES**
+
+**For Bachelors Programs**
+Applicants may submit a minimum 1100/1600 score of SAT 1. The scoring of SAT 1 will be considered as follows:
+SAT Score 1500-1600 = Test Marks 50/50
+SAT Score 1400-1499 = Test Marks 45/50
+SAT Score 1300-1399 = Test Marks 40/50
+SAT Score 1200-1299 = Test Marks 35/50
+SAT Score 1100-1199 = Test Marks 30/50
+Candidates securing 100% marks in SZABIST's admission test will be equivalent to 50.
+
+**For Masters Programs:**
+50% score of GMAT for Master Programs
+
+**For MS Programs:**
+GAT (General) / HAT relevant with minimum 50% score OR GRE General with minimum cumulative score of 300.
+GAT General/HAT relevant is mandatory for MS students with minimum 50% score.
+
+**For Phd Programs:**
+GAT (Subject) with minimum 60% score / GRE (subject) with 640 score.
+GAT (subject) is mandatory for PhD students with minimum 60% score.

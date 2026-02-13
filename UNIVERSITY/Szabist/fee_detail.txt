@@ -1,0 +1,134 @@
+Here are the SZABIST University undergraduate program fee structures formatted for your model:
+
+BBA
+For Pakistani Students:
+- Per Credit Hour: Rs. 8,800 (0% subsidy, Net Fee: Rs. 8,800)
+- Per Semester (18 Credit Hours): Rs. 158,400 (0% subsidy, Net Fee: Rs. 158,400)
+
+BS (Accounting & Finance)
+For Pakistani Students:
+- Per Credit Hour: Rs. 8,800 (0% subsidy, Net Fee: Rs. 8,800)
+- Per Semester (18 Credit Hours): Rs. 154,800 (0% subsidy, Net Fee: Rs. 154,800)
+
+BS (Entrepreneurship)
+For Pakistani Students:
+- Per Course: Rs. 25,800 (5% subsidy, Net Fee: Rs. 24,510)
+- Per Semester (6 Courses): Rs. 154,800 (5% subsidy, Net Fee: Rs. 147,060)
+
+BS (Computer Science)
+For Pakistani Students:
+- Per Credit Hour: Rs. 9,800 (0% subsidy, Net Fee: Rs. 9,800)
+- Per Semester (16 Credit Hours): Rs. 156,800 (0% subsidy, Net Fee: Rs. 156,800)
+- Lab Charges: Rs. 5,000 per semester
+
+BS (Business Analytics)
+For Pakistani Students:
+- Per Credit Hour: Rs. 8,600 (5% subsidy, Net Fee: Rs. 8,170)
+- Per Semester (18 Credit Hours): Rs. 154,800 (5% subsidy, Net Fee: Rs. 147,060)
+
+BS (Software Engineering)
+For Pakistani Students:
+- Per Credit Hour: Rs. 9,400 (0% subsidy, Net Fee: Rs. 9,400)
+- Per Semester (16 Credit Hours): Rs. 150,400 (0% subsidy, Net Fee: Rs. 150,400)
+- Lab Charges: Rs. 5,000 per semester
+
+BS (Artificial Intelligence)
+For Pakistani Students:
+- Per Credit Hour: Rs. 8,800 (0% subsidy, Net Fee: Rs. 8,800)
+- Per Semester (17 Credit Hours): Rs. 149,600 (0% subsidy, Net Fee: Rs. 149,600)
+- Lab Charges: Rs. 5,000 per semester
+
+BS (Autonomous Systems & Artificial Intelligence)
+For Pakistani Students:
+- Per Credit Hour: Rs. 6,700 (25% subsidy, Net Fee: Rs. 5,025)
+- Per Semester (18 Credit Hours): Rs. 120,600 (25% subsidy, Net Fee: Rs. 90,450)
+- Lab Charges: Rs. 5,000 per semester
+
+Bachelor of Media Science
+For Pakistani Students:
+
+Per Credit Hour: Rs. 10,400 (0% subsidy, Net Fee: Rs. 10,400)
+
+Per Semester (17 Courses): Rs. 176,800 (0% subsidy, Net Fee: Rs. 176,800)
+
+Lab Charges: Rs. 5,000 per semester
+
+BS (Social Sciences)
+For Pakistani Students:
+
+Per Credit Hour: Rs. 6,700 (0% subsidy, Net Fee: Rs. 6,700)
+
+Per Semester (16 Credit Hours): Rs. 107,200 (0% subsidy, Net Fee: Rs. 107,200)
+
+BS Psychology
+
+For Pakistani Students:
+
+Per Credit Hour: Rs. 6,700 (0% subsidy, Net Fee: Rs. 6,700)
+
+Per Semester (17 Credit Hours): Rs. 113,900 (0% subsidy, Net Fee: Rs. 113,900)
+
+BS English
+For Pakistani Students:
+
+Per Credit Hour: Rs. 6,700 (20% subsidy, Net Fee: Rs. 5,360)
+
+Per Semester (17 Credit Hours): Rs. 113,900 (20% subsidy, Net Fee: Rs. 91,120)
+
+BS (Educational Psychology)
+For Pakistani Students:
+
+Per Course: Rs. 20,100 (30% subsidy, Net Fee: Rs. 14,070)
+
+Per Semester (6 Courses): Rs. 120,600 (30% subsidy, Net Fee: Rs. 84,420)
+
+BS (Biosciences)
+For Pakistani Students:
+
+Per Credit Hour: Rs. 8,100 (40% subsidy, Net Fee: Rs. 4,860)
+
+Per Semester (17 Credit Hours): Rs. 137,700 (40% subsidy, Net Fee: Rs. 82,620)
+
+BS (Biotechnology)
+For Pakistani Students:
+
+Per Credit Hour: Rs. 8,500 (30% subsidy, Net Fee: Rs. 5,950)
+
+Per Semester (17 Credit Hours): Rs. 144,500 (30% subsidy, Net Fee: Rs. 101,150)
+
+BS Food Sciences and Technology
+For Pakistani Students:
+
+Per Credit Hour: Rs. 8,100 (30% subsidy, Net Fee: Rs. 5,670)
+
+Per Semester (17 Credit Hours): Rs. 137,700 (30% subsidy, Net Fee: Rs. 96,390)
+
+BS (Public Health)
+For Pakistani Students:
+
+Per Credit Hour: Rs. 8,100 (35% subsidy, Net Fee: Rs. 5,265)
+
+Per Semester (17 Credit Hours): Rs. 137,700 (35% subsidy, Net Fee: Rs. 89,505)
+
+BS (Nutrition and Dietetics)
+For Pakistani Students:
+
+Per Credit Hour: Rs. 8,100 (35% subsidy, Net Fee: Rs. 5,265)
+
+Per Semester (17 Credit Hours): Rs. 137,700 (35% subsidy, Net Fee: Rs. 89,505)
+
+BS Computational Biology
+For Pakistani Students:
+
+Per Credit Hour: Rs. 8,100 (30% subsidy, Net Fee: Rs. 5,670)
+
+Per Semester (17 Credit Hours): Rs. 137,700 (30% subsidy, Net Fee: Rs. 96,390)
+
+B.E (Mechatronic)
+For Pakistani Students:
+
+Per Credit Hour: Rs. 6,700 (0% subsidy, Net Fee: Rs. 6,700)
+
+Per Semester (17 Credit Hours): Rs. 113,900 (0% subsidy, Net Fee: Rs. 113,900)
+
+These fees are in addition to the standard university fees: Application processing fee (Rs. 2,000), Admission Fee (Rs. 25,000), Security Deposit (Rs. 15,000), Student Activity Fee (Rs. 1,500/semester), Course Registration Fee (Rs. 500/course), and Examination Fee (Rs. 500/course).

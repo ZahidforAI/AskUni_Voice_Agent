@@ -1,0 +1,218 @@
+FEE STRUCTURE
+
+--- MAIN CAMPUS FEE COMPONENTS ---
+
+FEE CATEGORIES EXPLANATION:
+- One Time Charges: Paid only once at the time of admission.
+  - Admission Fee: One-time fee for admission processing.
+  - Caution Money: Refundable security deposit.
+- Per Semester Charges: Recurring fees paid every semester.
+  - IT Charges: Fee for information technology services.
+  - Miscellaneous Charges: General university service fees.
+  - Examination Charges (Per Course): Fee for each course's examination.
+  - Lab Charges (Per Credit Hour): Fee for lab-based courses, charged per lab credit hour.
+  - Tuition Fee (Per Credit Hour): Academic instruction fee per lecture credit hour.
+
+--- MAIN CAMPUS - DETAILED FEE BREAKDOWN PER PROGRAM ---
+
+All programs share the following One Time Charges:
+- Admission Fee: 15,000
+- Caution Money: 10,000
+
+PROGRAM: BE (Mechanical Engineering)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 13,750
+- Tuition Fee (Per Credit Hour): 5,500
+
+PROGRAM: BE (Electrical Engineering)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 9,000
+- Tuition Fee (Per Credit Hour): 5,500
+
+PROGRAM: BS Computer Engineering Technology
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 3,000
+- Tuition Fee (Per Credit Hour): 3,000 (Note: 25% discount applied, original rate not specified)
+
+PROGRAM: BS (Computer Science)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 10,000
+- Tuition Fee (Per Credit Hour): 5,770
+
+PROGRAM: BS (Software Engineering)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 10,000
+- Tuition Fee (Per Credit Hour): 5,770
+
+PROGRAM: BS (Data Science)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 10,000
+- Tuition Fee (Per Credit Hour): 5,770
+
+PROGRAM: BS (Artificial Intelligence)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 10,000
+- Tuition Fee (Per Credit Hour): 5,770
+
+PROGRAM: BS (Cyber Security)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 10,000
+- Tuition Fee (Per Credit Hour): 5,770
+
+PROGRAM: BS (Computer Engineering)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 10,000
+- Tuition Fee (Per Credit Hour): 5,770
+
+PROGRAM: BS (International Relations)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 0
+- Tuition Fee (Per Credit Hour): 4,810
+
+PROGRAM: BS (English)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 0
+- Tuition Fee (Per Credit Hour): 4,810
+
+PROGRAM: BS (Psychology)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 0
+- Tuition Fee (Per Credit Hour): 4,810
+
+PROGRAM: BBA
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 0
+- Tuition Fee (Per Credit Hour): 5,500
+
+PROGRAM: BS (Business Analytics and Programming)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 10,000
+- Tuition Fee (Per Credit Hour): 5,500
+
+PROGRAM: BS (Accounting and Finance)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 0
+- Tuition Fee (Per Credit Hour): 5,500
+
+PROGRAM: MBA (2 Years)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 0
+- Tuition Fee (Per Credit Hour): 5,500
+
+PROGRAM: MBA / MS / ME (Graduate Programs)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 0
+- Tuition Fee (Per Credit Hour): 5,500
+
+PROGRAM: MPhil (Psychology / International Relations)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 0
+- Tuition Fee (Per Credit Hour): 5,500
+
+PROGRAM: PhD (All Disciplines)
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 0
+- Tuition Fee (Per Credit Hour): 5,500
+
+--- DCK CAMPUS - DETAILED FEE BREAKDOWN PER PROGRAM ---
+
+All DCK Campus programs share the following One Time Charges:
+- Admission Fee: 15,000
+- Caution Money: 10,000
+
+PROGRAM: BS (Computer Science) - DCK Campus
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 10,000
+- Tuition Fee (Per Credit Hour): 5,770
+
+PROGRAM: BS (Artificial Intelligence) - DCK Campus
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 10,000
+- Tuition Fee (Per Credit Hour): 5,770
+
+PROGRAM: BE (Civil) - DCK Campus
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 13,750
+- Tuition Fee (Per Credit Hour): 5,500
+
+PROGRAM: BBA - DCK Campus
+- IT Charges: 5,500
+- Miscellaneous Charges: 6,850
+- Examination Charges (Per Course): 1,000
+- Lab Charges (Per Credit Hour): 0
+- Tuition Fee (Per Credit Hour): 5,500
+
+--- MAIN CAMPUS - FIRST SEMESTER FEE SUMMARY ---
+Format: Program Name | First Semester Total Fee | Semester Fee (Excluding Admission & Caution Money) | Credit Hours (Lecture + Lab)
+
+BE (Mechanical): 169,850 | 144,850 | 13 + 4
+BE (Electrical): 156,350 | 131,350 | 14 + 4
+BE Tech (Computer): 120,850 | 95,850 | 13 + 4
+BS (Computer Science): 148,900 | 123,900 | 15 + 2
+BS (Software Engineering): 155,670 | 130,670 | 16 + 2
+BS (Data Science): 143,130 | 118,130 | 14 + 2
+BS (Artificial Intelligence): 143,130 | 118,130 | 14 + 2
+BS (Cyber Security): 144,130 | 119,130 | 14 + 2
+BS (Computer Engineering): 143,130 | 118,130 | 14 + 2
+BS (International Relations): 114,500 | 89,500 | 15 + 0
+BS (English): 114,500 | 89,500 | 15 + 0
+BS (Psychology): 114,500 | 89,500 | 15 + 0
+BBA: 124,850 | 99,850 | 15 + 0
+BS (Business Analytics and Programming): 144,850 | 119,850 | 15 + 2
+BS (Accounting and Finance): 124,850 | 99,850 | 15 + 0
+MBA (2 Years): 124,850 | 99,850 | 15 + 0
+MS / ME / MBA (1.5 Years): 107,350 | 82,350 | 12 + 0
+MPhil (Psychology/International Relations): 89,850 | 64,850 | 9 + 0
+PhD: 89,850 | 64,850 | 9 + 0
+
+--- DCK CAMPUS - FIRST SEMESTER FEE SUMMARY ---
+Format: Program Name | First Semester Total Fee | Semester Fee (Excluding Admission & Caution Money) | Credit Hours (Lecture + Lab)
+
+BS (Computer Science) - DCK: 148,900 | 123,900 | 15 + 2
+BS (Artificial Intelligence) - DCK: 143,130 | 118,130 | 14 + 2
+BE (Civil) - DCK: 158,850 | 133,850 | 11 + 4
+BBA - DCK: 124,850 | 99,850 | 15 + 0

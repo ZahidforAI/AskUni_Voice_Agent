@@ -1,0 +1,31 @@
+Here are the DSU departments / programs being offered:
+
+BE (Mechanical)
+
+BE (Electrical)
+
+BS Computer Engineering Technology
+
+BS (Computer Science)
+
+BS (Software Engineering)
+
+BS (Data Science)
+
+BS (Artificial Intelligence)
+
+BS (Cyber Security)
+
+BS (Computer Engineering)
+
+BS (International Relation)
+
+BS (English)
+
+BS (Psychology)
+
+BBA
+
+BS (Business Analytics and Programming)
+
+BS (Accounting and Finance)

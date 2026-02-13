@@ -1,0 +1,11 @@
+Program Mission:
+To provide theoretical knowledge and practical skills required for a professional career in computing and Software Engineering. The degree program follows Software Engineering in breadth covering core computing with a specialization in Data Science and its application within a code of ethics.
+
+Career Opportunities:
+The graduates of Bachelor of Science (Software Engineering) Degree may become software quality assurance engineer, systems programmer Embedded Software Engineer, Software architect, chief technology officer, chief information officer user interface designer, information system manager or computer graphic designer etc.
+
+Award of Degree:
+For the award of Bachelor of Science (Software Engineering) degree, a student must have:
+
+Passed courses totaling at least 137 credit hours, including all core courses.
+Earned CGPA of at least 2.00

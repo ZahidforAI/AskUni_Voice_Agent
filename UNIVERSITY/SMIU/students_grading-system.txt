@@ -1,0 +1,53 @@
+Performance of the students in the examination shall be assessed on the basis of the marks obtained from a total of 100 marks in each course. The marks obtained shall be presented as Numerical Grade (N.G) and Alphabetical Grade (A.G) as explained below.
+Assessment of performance on the basis of marks out of 100 fixed for a course recommended in course outlines of different disciplines will be termed as Numerical Grade (NG).
+Equivalent of numerical grade in terms of alphabets shall be termed as Alphabetical grades (AG) and each letter carries a value in terms of numerical points termed as Grade Point Average (GPA).
+Over all grading for the declaration of result will be based on Gradation System for representing actual achievements of a candidate as follows:
+Numerical Grade
+(NG)
+Alphabetical Grade
+(AG)
+Grade Point Average (GPA)
+91% - 100%
+A
+4.00
+80% - 90%
+A-
+3.66
+75% - 79%
+B+
+3.33
+71% - 74%
+B
+3.00
+68% - 70%
+B-
+2.66
+64% - 67%
+C+
+2.33
+61% - 63%
+C
+2.00
+58% - 60%
+C-
+1.66
+54% - 57%
+D+
+1.33
+50% - 53%
+D
+1.00
+Below 50%
+F
+0
+I
+Incomplete
+W
+Withdrawn
+Frz
+Freeze
+Semester Grade Point Average (GPA) and Cumulative Grade Point Averages (CGPAs) will be calculated using the following relationships:
+GPA = Sum over Courses in Semester (Course Credit Hours X Grade Point Earned)
+Total Semester Credit Hours
+CGPA = Sum over all taken Courses in all Semesters (Course Credit Hours X Grade Point Earned)
+Total Credit Hours Taken in all Semesters

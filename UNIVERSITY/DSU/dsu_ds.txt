@@ -1,0 +1,38 @@
+MISSION
+To educate and empower students to become ethical and proficient in data science, capable of addressing complex challenges through a  comprehensive curriculum, practical experience, and a global perspective.
+
+
+INTRODUCTION
+DHA Suffa university’s BS in Data Science program is designed to help students understand vast volume of data generated as a result of latest modern data revolution. The specific syllabus enables the students to design sophisticated computing techniques in order to process this volume of information by designing expertise in machine learning, big data analysis and algorithmic complexity as well as skill development in mathematics and statistical modeling and algorithm design.
+This program is suitable for students interested in either career in industry or to pursue more specialized graduate study. This program helps students to prepare career in data analysis, combining foundational statistical concepts with computational principal from computer science. The major part of this program is final year project, that teaches students about implementation of statistical and computational principal to solve large range, real world data analysis problems.
+
+BS (Data Science) program is a four-year degree program and accredited by NCEAC (National Computing Education Accreditation Council).
+
+Data Science students will learn to
+ Define information need for individuals and organizations
+Select and transform data to increase helpfulness for solving practical problems
+Analyze unstructured data to create meaning information
+Create visualizations for data exploration
+Handle large volume of data sources
+Secure data in consistent ways with legal and organizational considerations
+Learning outcomes
+Understanding of applying analytic techniques and algorithms on large dataset to extract meaningful information
+Hands on experience with specific software tools, languages, data models and data processing with visualization
+Capability to communicate results of analysis visually and verbally to audience
+Career Path
+Data Architect
+Infrastructure Architect
+Data Scientist
+Data Analyst
+Data Engineer
+Machine Learning Engineer
+Prospective Firms/Companies
+Real Estate Industry
+Hospital Industry
+Social Media Data Analytics Firms
+Food and Supply Industry
+Banking Sector
+Airline Industry
+Communication & Transportation Industry
+Government & Private Sector
+Insurance Industry

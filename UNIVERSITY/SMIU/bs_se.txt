@@ -1,0 +1,11 @@
+The Software Engineering Department drives to produce a robust, contemporary and coherent software engineering program(s) to adequately address the industrial needs and professional development of skilled manpower.
+The Department offers a four years BS (SE) degree program in morning and evening shifts, which comprises over state-of-the-art courses and hands-on practices which are fully aligned with HEC curricula. So far, the department offers three specialized fields based on elective courses and available resources.
+
+Modeling and Simulation Systems
+Game and Entertainment Systems
+Software Engineering & Intelligent Systems
+Considering the breadth and depth of learning outcome of the Software Engineering discipline, the program’s contents are dynamically designed to train the pupils in various dimensions including software design, software implementation, software maintenance, software evaluation, and programming languages.
+The use of technology has been an integral part for human life; from performing simple routine tasks to solving complex problems, almost everything is being handled by software. The trend eventually establishes a high demand of software developers at national and international level for applying the emerging technological knowledge so as to design, test and evaluate software products. Pakistan is among of those countries where demand of software engineers’ increases day to day, due to advancement of Information Technology and related disciplines. Different surveys and reports reflected the need and scope of job placements of software engineers in the future. The department offers following Academic Programs:
+
+(BS) in Software Engineering
+(BS) in Data Science

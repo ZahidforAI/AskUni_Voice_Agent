@@ -1,0 +1,11 @@
+Program Mission:
+To provide theoretical knowledge and practical skills required for a professional career in computing and Data Science. The degree program follows Data Science in breadth covering core computing with a specialization in Data Science and its application within a code of ethics.
+
+Career Opportunities:
+You may become Bachelor of Science (Data Science) scientist business analyst, big data analyst social networks analyst, data engineering, decision scientist, data quality assurance experts, business analyst, business intelligence analyst, data consultant ,data associate, database developer software engineer, machine learning engineer etc.
+
+Award of Degree:
+For the award of Bachelor of Science (Data Science) degree, a student must have:
+
+Passed courses totaling at least 137 credit hours, including all core courses.
+Earned CGPA of at least 2.00
