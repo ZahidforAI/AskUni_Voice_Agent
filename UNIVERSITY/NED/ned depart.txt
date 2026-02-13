@@ -1,0 +1,27 @@
+Following are the departments of NED university:
+1. Civil Engineering
+2. Urban & Infrastructure Engineering
+3. Petroleum Engineering
+4. Architecture & Planning
+5. Environmental Engineering
+6. Earthquake Engineering
+7. Mechanical Engineering
+8. Textile Engineering
+9. Industrial & Manufacturing Engineering
+10. Automotive & Marine Engineering
+11. Electrical Engineering
+12. Computer & Information Systems Engineering
+13. Electronic Engineering
+14. Telecommunications Engineering
+15. Chemical Engineering
+16. Materials Engineering
+17. Metallurgical Engineering
+18. Polymer & Petrochemical Engineering
+19. Biomedical Engineering
+20. Food Engineering
+21. Computer Science & Software Engineering
+22. Mathematics
+23. Chemistry
+24. Physics
+25. English Linguistics & Allied Studies
+26. Economics and Management Sciences
