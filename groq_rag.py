@@ -3,6 +3,14 @@ import sys
 import re
 from dotenv import load_dotenv
 
+# Ensure UTF-8 output encoding on Windows consoles
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+        sys.stderr.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
+
 # Load Environment Variables from .env file
 load_dotenv()
 
@@ -76,6 +84,35 @@ UNIVERSITY_KEYWORDS = {
     "national university of computer": "fast",
 }
 
+# Cached singletons for high performance
+_cached_embeddings = None
+_cached_db = None
+_cached_llm = None
+
+def get_embeddings():
+    global _cached_embeddings
+    if _cached_embeddings is None:
+        _cached_embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
+    return _cached_embeddings
+
+def get_vector_db():
+    global _cached_db
+    if _cached_db is None:
+        if not os.path.exists(DB_PATH):
+            create_vector_db()
+        _cached_db = FAISS.load_local(DB_PATH, get_embeddings(), allow_dangerous_deserialization=True)
+    return _cached_db
+
+def get_llm():
+    global _cached_llm
+    if _cached_llm is None:
+        _cached_llm = ChatGroq(
+            model="openai/gpt-oss-120b",
+            temperature=0.05,
+            max_tokens=3000
+        )
+    return _cached_llm
+
 def detect_university(query):
     """
     Detects university name from user query using keyword matching.
@@ -89,9 +126,10 @@ def detect_university(query):
 
 def create_vector_db():
     """
-    Reads .txt files, creates embeddings using a FREE HuggingFace model,
+    Reads .txt files, creates embeddings using HuggingFace model,
     and saves them to a local Faiss database.
     """
+    global _cached_db
     if not os.path.exists(DATA_PATH):
         os.makedirs(DATA_PATH)
         print(f"[!] Created folder {DATA_PATH}. Please put your .txt files there and run again!")
@@ -107,25 +145,23 @@ def create_vector_db():
         for file in files:
             if file.endswith(".txt"):
                 file_path = os.path.join(root, file)
+                university = os.path.basename(root).lower()
 
-            # Extract university name from folder
-            university = os.path.basename(root).lower()
+                loader = TextLoader(file_path, encoding="utf-8")
+                docs = loader.load()
 
-            loader = TextLoader(file_path, encoding="utf-8")
-            docs = loader.load()
-
-            for doc in docs:
-                doc.metadata["university"] = university
-                doc.metadata["source_file"] = file
-                documents.append(doc)
+                for doc in docs:
+                    doc.metadata["university"] = university
+                    doc.metadata["source_file"] = file
+                    documents.append(doc)
 
     if not documents:
-        print("[X] No documents found. Add .txt files to 'scraped_data' folder.")
+        print("[X] No documents found. Add .txt files to UNIVERSITY folders.")
         return False
         
     print(f"   Loaded {len(documents)} documents.")
 
-    # 2. Split Text (Optimized for better context)
+    # 2. Split Text
     print("2. Splitting text...")
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=1200, 
@@ -135,52 +171,54 @@ def create_vector_db():
     chunks = text_splitter.split_documents(documents)
     print(f"   Created {len(chunks)} chunks.")
 
-    # 3. Create Embeddings (Using Free HuggingFace Model - No API Key needed)
-    print("3. Creating Embeddings (this runs locally on CPU)...")
-    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
+    # 3. Create Embeddings
+    print("3. Creating Embeddings...")
+    embeddings = get_embeddings()
 
     # 4. Save to FAISS
     print("4. Saving to Vector DB...")
     db = FAISS.from_documents(chunks, embeddings)
     db.save_local(DB_PATH)
+    _cached_db = db
     print("--- INGESTION COMPLETE ---")
     return True
 
 def get_groq_response(query):
     """
-    Retrieves context from DB and sends it to Groq Llama 3 with optimized prompting.
+    Retrieves context from DB and sends it to Groq LLM with optimized prompting.
     """
-    # 1. Initialize Embeddings (Must be same as ingestion)
-    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
-    
-    # 2. Load Vector DB
-    db = FAISS.load_local(DB_PATH, embeddings, allow_dangerous_deserialization=True)
-    
-    # 3. Initialize Groq LLM with optimized settings for accuracy
-    llm = ChatGroq(
-        model="qwen/qwen3-32b", 
-        temperature=0.05,
-        max_tokens=3000  # Increased to prevent truncation of thinking blocks
-    )
+    clean_query = query.strip()
+    # Strip potential prefix like "SMIU: " if passed from UI dropdown
+    search_query = re.sub(r'^(smiu|ned|iba|uok|fast|szabist|dsu|duet):\s*', '', clean_query, flags=re.IGNORECASE).strip()
+    if not search_query:
+        search_query = clean_query
 
-    # 4. Detect university from query and create filtered retriever
-    detected_university = detect_university(query)
-    
+    detected_university = detect_university(clean_query)
+    db = get_vector_db()
+    llm = get_llm()
+
+    docs = []
     if detected_university:
-        # Filter by university metadata for targeted search
-        print(f"   [Filtering by university: {detected_university.upper()}]")
-        retriever = db.as_retriever(
-            search_kwargs={
-                "k": 5,
-                "filter": {"university": detected_university}
-            }
-        )
-    else:
-        # No university detected - search all documents
+        try:
+            print(f"   [Filtering by university: {detected_university.upper()}]")
+            retriever = db.as_retriever(
+                search_kwargs={
+                    "k": 5,
+                    "filter": {"university": detected_university}
+                }
+            )
+            docs = retriever.invoke(search_query)
+        except Exception as e:
+            print(f"Filtered retrieval error: {e}")
+            docs = []
+            
+    if not docs:
         retriever = db.as_retriever(search_kwargs={"k": 5})
+        docs = retriever.invoke(search_query)
 
-    # 5. Enhanced Prompt Template for Students
-    template = """You are a helpful university assistant specifically designed to help students with their academic queries. Your goal is to provide clear, accurate, and student-friendly responses.
+    context = "\n\n".join([d.page_content for d in docs])
+
+    template = """You are a helpful university assistant specifically designed to help students with their academic queries. Your goal is to provide clear, concise, accurate, and student-friendly responses based on the provided context and general knowledge of the universities.
 
 Context from university documents:
 {context}
@@ -188,77 +226,60 @@ Context from university documents:
 Student Question: {question}
 
 Instructions for your response:
-1. Answer the question directly and accurately based on the provided context
-2. If the context contains the information, provide specific details including:
-   - Exact dates, deadlines, or timeframes
-   - Specific requirements, procedures, or steps
-   - Contact information or relevant departments if mentioned
-   - Any important conditions or prerequisites
-3. If the context doesn't fully answer the question, clearly state: "Based on the available information, [provide what you know], but I recommend contacting [relevant department/office] for complete details."
-4. Use clear, concise, simple language that students can easily understand
-5. Organize information with bullet points or numbered steps when listing multiple items only if required
-6. Be encouraging and supportive in tone
-7. Don't generate thinking text just provide the answer
-8. you can use bullet points with line break for better readability 
-9. Dont use '*' or '-' or '##' in response 
-10. Dont response anything negative or offensive
-11. Dont response anything that is not related to the question
+1. Answer the question directly, concisely, and accurately.
+2. Keep your answer brief and suitable for mobile screens and voice readout.
+3. DO NOT use hyphens or dashes ('-') or asterisks ('*') or hash symbols ('##') in your text response.
+4. If listing items, use plain line breaks or numbered lists (1., 2., 3.).
+5. If the context does not fully answer the question, briefly provide what is available and suggest contacting the relevant university department.
+6. Do not include thinking or internal reasoning blocks, output only the clean final answer.
 
 Your Answer:"""
-    
+
     prompt = ChatPromptTemplate.from_template(template)
-
-    def format_docs(docs):
-        return "\n\n".join([d.page_content for d in docs])
-
     chain = (
-        {"context": retriever | format_docs, "question": RunnablePassthrough()}
+        {"context": lambda _: context, "question": lambda _: search_query}
         | prompt
         | llm
         | StrOutputParser()
     )
 
-    # 6. Run Query
-    response = chain.invoke(query)
-    
-    # Clean thinking tags manually (handling multiple variations, case-insensitive)
-    # 1. Closed tags
+    response = chain.invoke(search_query)
+
+    # Clean thinking tags manually
     response = re.sub(r'<think>.*?</think>', '', response, flags=re.DOTALL | re.IGNORECASE)
     response = re.sub(r'<thought>.*?</thought>', '', response, flags=re.DOTALL | re.IGNORECASE)
-    
-    # 2. Unclosed tags (start found but no end - likely truncation)
-    # Regex will match from the start tag to the end of the string
     response = re.sub(r'<think>.*', '', response, flags=re.DOTALL | re.IGNORECASE)
     response = re.sub(r'<thought>.*', '', response, flags=re.DOTALL | re.IGNORECASE)
     
-    # Remove requested symbols "**" and leading "-"
+    # Normalize unicode special spaces, quotes, hyphens
+    response = response.replace('\u202f', ' ').replace('\u00a0', ' ')
+    response = response.replace('\u2011', '-').replace('\u2013', '-').replace('\u2014', ' ')
+    response = response.replace('\u2018', "'").replace('\u2019', "'")
+    response = response.replace('\u201c', '"').replace('\u201d', '"')
     response = response.replace('**', '')
-    
+
     # Split into lines to clean line-start bullets safely
     lines = response.splitlines()
     cleaned_lines = []
     for line in lines:
         sline = line.strip()
-        # Remove leading dash if present
         if sline.startswith('- '):
             sline = sline[2:]
         elif sline.startswith('-'):
             sline = sline[1:]
-        cleaned_lines.append(sline)
+        if sline:
+            cleaned_lines.append(sline)
         
     response = "\n".join(cleaned_lines).strip()
-    
     return response
 
 if __name__ == "__main__":
-    # CHECK: Does the database exist? If not, create it.
     if not os.path.exists(DB_PATH):
         print("Database not found. Creating it now...")
         success = create_vector_db()
         if not success:
             sys.exit()
     
-    # Chat Loop
     print("\n[OK] System Ready! Ask me anything about your university.")
     print("Tip: Be specific in your questions for the best answers!")
     print("Type 'exit' or 'quit' to end the conversation.\n")
