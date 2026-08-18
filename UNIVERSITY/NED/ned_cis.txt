@@ -1,0 +1,51 @@
+DEPARTMENT: Computer and Information Systems Engineering
+UNIVERSITY: NED University of Engineering & Technology
+
+--- HISTORY AND ESTABLISHMENT ---
+- July 1983: NED University introduced the four-year Bachelor of Engineering (Computer Systems) program.
+- 1986: The Department of Electrical Engineering was renamed to the Department of Electrical and Computer Systems Engineering.
+- July 1997: The Department was bifurcated to create a separate Department of Computer Systems Engineering, recognizing the field's growing importance for the 21st century.
+- 2000: The department was renamed to its current title: Department of Computer and Information Systems Engineering.
+
+--- DEPARTMENTAL ORGANIZATION ---
+- Leadership: The department is led by a Chairman.
+- Reporting: The Chairman reports to the Dean of the Faculty of Electrical & Computer Engineering (ECE).
+- Authority: The Chairman exercises administrative and financial powers as per University Statutes, Regulations, and delegated authority.
+- Current Chairman: Prof. Dr. Muhammad Ali Ismail.
+- Faculty: Under the chairman's guidance, a team of experienced faculty members works to achieve excellence in academics and research.
+
+--- FACILITIES & RESEARCH ENVIRONMENT ---
+The department provides a vibrant and encouraging environment for students passionate about state-of-the-art research. Experienced faculty members motivate and supervise students in their research endeavors.
+
+DEPARTMENTAL FACILITIES (LABORATORIES):
+1. Computation Laboratory
+2. Software Design Laboratory
+3. Networks and Security Laboratory
+4. Artificial Intelligence and Robotics Laboratory
+5. Digital Logic Design Laboratory
+6. Microprocessor Laboratory
+7. Embedded Systems and Computer Vision Laboratory
+8. Workshop Laboratory
+9. Computer Laboratory
+10. Project Laboratory
+11. Smart Classroom
+
+--- RESEARCH FIELDS ---
+The department is active in the following key research areas:
+- High Performance Computing
+- Artificial Intelligence and Robotics
+- Software Defined Communication Systems
+- Computer Vision & Image Processing
+- Embedded System Design
+- Internet of Things (IoT) and Web of Things
+- Multicore Architecture Design
+- VLSI Design and Testing
+- Distributed Systems
+- Computer Networks
+
+--- RESEARCH CENTRES ---
+The department hosts and is associated with several national research centers:
+1. High Performance Computing Centre
+2. National Center in Big Data and Cloud Computing
+3. National Center for Artificial Intelligence (Smart City Lab and Neuromorphic Lab)
+4. National Centre for Cyber Security (comprising the Internet Security Lab, Digital Forensic Lab, and Quantum Computing Lab)

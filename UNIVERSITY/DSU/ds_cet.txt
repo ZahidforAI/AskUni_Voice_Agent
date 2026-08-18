@@ -1,0 +1,15 @@
+The Bachelor of Science in Computer Engineering Technology (BS-CET) is an NTC-recognized program offered at Electrical Engineering Department that combines hands-on experience with modern hardware tools and strong software knowledge. The program is designed to bridge the gap between theory and practice, preparing students for real-world engineering challenges.
+
+Students gain exposure to key areas of computer technology such as IoT, embedded systems, web and software development, while also building a solid foundation in electronics, communication systems, and computer networks. While essential theoretical concepts are covered, the program places a stronger emphasis on practical learning, laboratory work, and applied engineering skills, making the learning experience less rote and more impactful.
+
+Career Paths
+Through a wide range of electives, graduates can pursue the following career pathways (but not limited to):
+
+Hardware Design Engineer (Synthesis & Testing) – applying HDL skills for digital system design and verification
+Embedded Systems Engineer – designing and programming microcontroller- and processor-based systems
+Mechatronics / Robotics Engineer – working at the intersection of electronics, control systems, and automation
+Communication Systems / Network Engineer – designing and maintaining data and communication networks
+IoT Engineer – developing connected devices and smart systems
+Real-Time Operating Systems (RTOS) Engineer – building time-critical systems for industrial and embedded applications
+Firmware / Interfacing Engineer – developing low-level software that directly interfaces with hardware
+Control Systems Engineer

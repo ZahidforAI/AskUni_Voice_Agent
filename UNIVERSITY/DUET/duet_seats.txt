@@ -1,0 +1,182 @@
+SEAT DISTRIBUTION POLICY: Dawood University of Engineering & Technology (DUET)
+
+--- MERIT / SELF-FINANCE SEATS (BE/B.Arch Programs) ---
+
+*ABBREVIATIONS FOR PROGRAMS:*
+ES = Electronic Engineering
+CH = Chemical Engineering
+PG = Petroleum & Gas Engineering
+IN = Industrial Engineering & Management
+ISE = Information Security Engineering
+MM = Materials Engineering
+EE = Energy & Environment Engineering
+CS = Computer System Engineering
+AR = Architecture & Planning
+
+*GENERAL MERIT CATEGORIES:*
+
+CATEGORY 1: Sindh Urban
+- DESCRIPTION: Domiciled in Sindh Urban (Karachi all areas, Hyderabad City, Sukkur City). Passed SSC & HSC from Sindh Board or affiliated colleges.
+- TOTAL SEATS: 342
+- PROGRAM-WISE BREAKDOWN: ES(26), CH(27), PG(12), IN(12), ISE(40), MM(14), EE(15), CS(12), AR(13)
+
+CATEGORY 1: Sindh Rural
+- DESCRIPTION: Domiciled in Sindh Rural (All Sindh except Karachi, Hyderabad City, Sukkur City). Passed SSC & HSC from Sindh Board or affiliated colleges.
+- TOTAL SEATS: 26
+- PROGRAM-WISE BREAKDOWN: ES(27), CH(27), PG(12), IN(12), ISE(40), MM(14), EE(15), CS(12), AR(13)
+
+CATEGORY 2: DUET Teaching Staff
+- DESCRIPTION: Real son/daughter/brother/sister of university teacher (serving/retired/deceased). First preference to real son/daughter.
+- TOTAL SEATS: 7
+- PROGRAM-WISE BREAKDOWN: ES(2), CH(2), PG(0), IN(1), ISE(0), MM(0), EE(0), CS(2), AR(0)
+
+CATEGORY 3: DUET Non-Teaching Staff
+- DESCRIPTION: Real son/daughter/brother/sister of university employee (non-teaching). First preference to real son/daughter.
+- TOTAL SEATS: 7
+- PROGRAM-WISE BREAKDOWN: ES(2), CH(2), PG(0), IN(1), ISE(0), MM(0), EE(0), CS(2), AR(0)
+
+CATEGORY 4: Professional Engineer (Sons/Daughters)
+- DESCRIPTION: Real Sons/Daughters of PEC-registered Professional Engineers.
+- TOTAL SEATS: 3
+- PROGRAM-WISE BREAKDOWN: ES(0), CH(0), PG(1), IN(1), ISE(0), MM(1), EE(0), CS(0), AR(0)
+
+CATEGORY 5: Professional Architect (Sons/Daughters)
+- DESCRIPTION: Real Sons/Daughters of PCATP-registered Professional Architects.
+- TOTAL SEATS: 1
+- PROGRAM-WISE BREAKDOWN: ES(0), CH(0), PG(0), IN(0), ISE(0), MM(0), EE(0), CS(0), AR(1)
+
+CATEGORY 6: Azad Kashmir (AJK)
+- DESCRIPTION: Candidates domiciled in any district of Azad Jammu & Kashmir.
+- TOTAL SEATS: 13
+- PROGRAM-WISE BREAKDOWN: ES(2), CH(1), PG(1), IN(1), ISE(2), MM(1), EE(1), CS(2), AR(2)
+
+*TOTAL GENERAL MERIT SEATS: 373*
+- SUMMARY: ES(58), CH(59), PG(26), IN(28), ISE(82), MM(30), EE(31), CS(30), AR(29)
+
+*SELF-FINANCE CATEGORIES:*
+
+CATEGORY 7: Self-Finance (Local)
+- DESCRIPTION: Domicile & PRC of any area in Pakistan. HSC from any Pakistani Board. Separate merit list on overall basis. No provincial quota.
+- TOTAL SEATS: 61
+- PROGRAM-WISE BREAKDOWN: ES(9), CH(11), PG(4), IN(9), ISE(10), MM(1), EE(0), CS(11), AR(6)
+
+CATEGORY 8: Self-Finance Foreign / Overseas Pakistani
+- DESCRIPTION: Foreign nationals/Overseas Pakistanis. Minimum 60% in HSC. Must apply via Embassy/HEC.
+- TOTAL SEATS: 11
+- PROGRAM-WISE BREAKDOWN: ES(2), CH(2), PG(2), IN(2), ISE(0), MM(0), EE(0), CS(2), AR(1)
+
+*TOTAL SELF-FINANCE SEATS: 72*
+- SUMMARY: ES(11), CH(13), PG(6), IN(11), ISE(10), MM(1), EE(0), CS(13), AR(7)
+
+*TOTAL MERIT + SELF-FINANCE SEATS: 445*
+- SUMMARY: ES(69), CH(72), PG(32), IN(39), ISE(92), MM(31), EE(31), CS(43), AR(36)
+
+--- NOMINATION SEATS (BE/B.Arch Programs) ---
+
+CATEGORY 9.1: Punjab - UET Lahore Nominee
+- TOTAL SEATS: 1
+- PROGRAM-WISE BREAKDOWN: ES(0), CH(0), PG(0), IN(0), ISE(1), MM(0), EE(0), CS(0), AR(0)
+
+CATEGORY 9.2: Punjab - UET Taxila Nominee
+- TOTAL SEATS: 1
+- PROGRAM-WISE BREAKDOWN: ES(1), CH(0), PG(0), IN(0), ISE(0), MM(0), EE(0), CS(0), AR(0)
+
+CATEGORY 9.3: Punjab - Govt. of Punjab Nominee
+- TOTAL SEATS: 1
+- PROGRAM-WISE BREAKDOWN: ES(0), CH(0), PG(0), IN(0), ISE(0), MM(0), EE(1), CS(0), AR(0)
+
+CATEGORY 10.1: Khyber P.K - UET Peshawar Nominee
+- TOTAL SEATS: 1
+- PROGRAM-WISE BREAKDOWN: ES(1), CH(0), PG(0), IN(0), ISE(0), MM(0), EE(0), CS(0), AR(0)
+
+CATEGORY 10.2: Khyber P.K - Govt. of KPK Nominee
+- TOTAL SEATS: 1
+- PROGRAM-WISE BREAKDOWN: ES(0), CH(0), PG(0), IN(0), ISE(0), MM(0), EE(1), CS(0), AR(0)
+
+CATEGORY 11: Baluchistan Nominee
+- TOTAL SEATS: 20
+- PROGRAM-WISE BREAKDOWN: ES(2), CH(2), PG(2), IN(3), ISE(1), MM(4), EE(3), CS(1), AR(2)
+
+CATEGORY 12: FATA Nominee
+- TOTAL SEATS: 10
+- PROGRAM-WISE BREAKDOWN: ES(1), CH(1), PG(1), IN(2), ISE(1), MM(2), EE(0), CS(1), AR(1)
+- ADDITIONAL FATA SEATS: 10
+- PROGRAM-WISE BREAKDOWN: ES(1), CH(1), PG(1), IN(1), ISE(1), MM(1), EE(2), CS(1), AR(1)
+
+CATEGORY 13: Gilgit Baltistan Nominee
+- TOTAL SEATS: 13
+- PROGRAM-WISE BREAKDOWN: ES(2), CH(1), PG(1), IN(2), ISE(1), MM(1), EE(2), CS(2), AR(1)
+
+CATEGORY 14: OIC Nominee
+- TOTAL SEATS: 17
+- PROGRAM-WISE BREAKDOWN: ES(2), CH(2), PG(3), IN(2), ISE(2), MM(2), EE(0), CS(2), AR(2)
+
+CATEGORY 15: Muslim District of Candy, Sri Lanka (PTAP)
+- TOTAL SEATS: 1
+- PROGRAM-WISE BREAKDOWN: ES(0), CH(0), PG(0), IN(0), ISE(0), MM(0), EE(1), CS(0), AR(0)
+
+CATEGORY 16: Dawood Foundation Nominee
+- TOTAL SEATS: 2
+- PROGRAM-WISE BREAKDOWN: ES(0), CH(0), PG(1), IN(1), ISE(0), MM(0), EE(0), CS(0), AR(0)
+
+CATEGORY 17: Federal Capital Area Nominee
+- TOTAL SEATS: 2
+- PROGRAM-WISE BREAKDOWN: ES(0), CH(0), PG(0), IN(1), ISE(0), MM(0), EE(0), CS(0), AR(1)
+
+CATEGORY 18: GHQ Nominee
+- TOTAL SEATS: 7
+- PROGRAM-WISE BREAKDOWN: ES(2), CH(2), PG(0), IN(0), ISE(0), MM(0), EE(1), CS(1), AR(1)
+
+*TOTAL NOMINATION SEATS: 87*
+- SUMMARY: ES(12), CH(9), PG(9), IN(12), ISE(7), MM(10), EE(11), CS(8), AR(9)
+
+--- OVERALL TOTAL ALL CATEGORIES (BE/B.Arch): 532 SEATS ---
+- FINAL SUMMARY: ES(81), CH(81), PG(41), IN(51), ISE(100), MM(41), EE(42), CS(51), AR(45)
+
+--- SEAT DISTRIBUTION FOR BS PROGRAMS (Main Campus) ---
+
+*ABBREVIATIONS FOR BS PROGRAMS:*
+CS = BS in Computer Science
+AI = BS in Artificial Intelligence
+CY = BS in Cyber Security
+DS = BS in Data Science
+ENV = BS in Environmental Science
+MAT = BS in Material Science
+IND&T = BS in Industrial Management & Technology
+MGT&T = BS in Management & Technology
+CHY = BS in Chemistry
+
+CATEGORY: Open Merit
+- DESCRIPTION: Domicile & PRC of any province of Pakistan.
+- TOTAL SEATS: 810
+- PROGRAM-WISE BREAKDOWN: CS(148), AI(144), CY(144), DS(144), ENV(47), MAT(47), IND&T(47), MGT&T(47), CHY(42)
+
+CATEGORY: Employees of DUET
+- DESCRIPTION: Real son/daughter/brother/sister of university employee.
+- TOTAL SEATS: 45
+- PROGRAM-WISE BREAKDOWN: CS(12), AI(6), CY(6), DS(6), ENV(3), MAT(3), IND&T(3), MGT&T(3), CHY(3)
+
+CATEGORY: Self-Finance
+- DESCRIPTION: Domicile & PRC of any province of Pakistan.
+- TOTAL SEATS: 245
+- PROGRAM-WISE BREAKDOWN: CS(90), AI(50), CY(50), DS(50), ENV(0), MAT(0), IND&T(0), MGT&T(0), CHY(5)
+
+*TOTAL BS PROGRAM SEATS: 1100*
+- SUMMARY: CS(250), AI(200), CY(200), DS(200), ENV(50), MAT(50), IND&T(50), MGT&T(50), CHY(50)
+
+--- SEAT DISTRIBUTION FOR BS PROGRAMS (CEMET Sukkur) ---
+
+PROGRAMS OFFERED: BS Artificial Intelligence, BS Data Science, BS Industrial Management & Technology, BS Management & Technology
+
+CATEGORY: Open Merit All Pakistan
+- DESCRIPTION: Domicile & PRC of any province of Pakistan.
+- TOTAL SEATS: 200
+- PROGRAM-WISE BREAKDOWN: BSAI(50), Data Science(50), Industrial Mgt Tech(50), Mgt Technology(50)
+
+--- IMPORTANT POLICY NOTES ---
+
+1. Fourteen (14) total seats are reserved for DUET teaching and non-teaching employees (7+7). Vacant seats in these categories are interchangeable.
+2. All vacant seats after exhausting admission formalities shall be distributed on "open merit" after the 3rd merit list.
+3. The admission committee may consider requests for admission in other technologies, subject to seat availability.
+4. The competent authority reserves the right to change seat allocation or policy at any time without notice.
+5. For BS Programs: The admission committee has discretion to fill vacant seats across categories based on merit or leave them unfilled, subject to department capacity and VC approval.

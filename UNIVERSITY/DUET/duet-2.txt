@@ -1,0 +1,107 @@
+UNIVERSITY: Dawood University of Engineering & Technology (DUET)
+
+CAMPUS: DUET Jinnah Campus
+LOCATION: New M.A. Jinnah Road, Karachi
+
+PROGRAMS AT JINNAH CAMPUS:
+
+Engineering Programs:
+- Undergraduate: B.E. in Computer System Engineering
+- Undergraduate: B.E. in Chemical Engineering
+- Undergraduate: B.E. in Electronics Engineering
+- Undergraduate: B.E. in Energy & Environment Engineering
+- Undergraduate: B.E. in Materials Engineering
+- Undergraduate: B.E. in Telecommunication Engineering (Discontinued in Fall-2025)
+- Undergraduate: B.E. in Industrial Engineering & Management
+- Undergraduate: B.E. in Petroleum & Gas Engineering
+- Undergraduate: B.S. in Information Security Engineering
+
+Technology / Applied Sciences Programs:
+- Undergraduate: B.S. in Chemistry
+- Undergraduate: B.S. in Environmental Science
+- Undergraduate: B.S. in Material Science
+- Undergraduate: B.S. in Industrial Management & Technology
+- Undergraduate: B.S. in Management & Technology
+- Undergraduate: Bachelor of Architecture (B.Arch.) in Architecture & Planning
+
+CAMPUS: DUET Gulberg Town Campus
+LOCATION: Sports Ground, Plot ST 8, Federal B Area Dastagir Block 9 Gulberg Town, Karachi
+
+PROGRAMS AT GULBERG TOWN CAMPUS:
+Computing Sciences Programs:
+- Undergraduate: B.S. in Artificial Intelligence
+- Undergraduate: B.S. in Computer Science
+- Undergraduate: B.S. in Cyber Security
+- Undergraduate: B.S. in Data Science
+
+CAMPUS: CEMENT Rohri-Sukkur Centre
+LOCATION: NH 5, Rohri, Sukkur
+
+PROGRAMS AT CEMENT ROHRI-SUKKUR:
+Computing Sciences / Technology Programs:
+- Undergraduate: B.S. in Artificial Intelligence
+- Undergraduate: B.S. in Data Science
+- Undergraduate: B.S. in Management & Technology
+- Undergraduate: B.S. in Industrial Management & Technology
+
+FACULTY AND DEPARTMENT STRUCTURE:
+
+FACULTY: Faculty of PMC (Process, Metallurgy & Chemical)
+- Department: Chemical Engineering
+  * Undergraduate: B.E. Chemical Engineering
+  * Postgraduate: M.S. Chemical Engineering
+  * Doctoral: Ph.D. Chemical Engineering
+- Department: Metallurgy & Material Engineering
+  * Undergraduate: B.E. Metallurgy & Material Engineering
+  * Postgraduate: M.S. Metallurgy & Material Engineering
+  * Doctoral: Ph.D. Metallurgy & Material Engineering
+- Department: Petroleum & Gas Engineering
+  * Undergraduate: B.E. Petroleum & Gas Engineering
+
+FACULTY: Faculty of CEET (Computer, Electrical & Electronic Technology)
+- Department: Computer System Engineering
+  * Undergraduate: B.E. Computer System Engineering
+  * Postgraduate: M.S. Computer System Engineering
+  * Doctoral: Ph.D. Computer System Engineering
+- Department: Electronic Engineering
+  * Undergraduate: B.E. Electronic Engineering
+  * Postgraduate: M.E. Electronic Engineering
+  * Doctoral: Ph.D. Electronic Engineering
+- Department: Telecommunication Engineering
+  * Undergraduate: B.E. Telecommunication Engineering
+  * Undergraduate: B.S. Business Information System
+  * Postgraduate: M.S. Telecommunication Engineering
+  * Doctoral: Ph.D. Telecommunication Engineering
+
+FACULTY: Faculty of IMEE (Industrial, Manufacturing & Energy Engineering)
+- Department: Industrial Engineering & Management
+  * Undergraduate: B.E. Industrial Engineering & Management
+  * Undergraduate: B.S. Management & Technology
+  * Postgraduate: M.S. Industrial Engineering & Management
+  * Doctoral: Ph.D. Industrial Engineering & Management
+- Department: Energy & Environment Engineering
+  * Undergraduate: B.E. Energy & Environment Engineering
+  * Undergraduate: B.S. Environmental Science
+  * Postgraduate: M.S. Energy & Environment Engineering
+  * Doctoral: Ph.D. Energy & Environment Engineering
+
+FACULTY: Faculty of CARP (Civil, Architecture & Regional Planning)
+- Department: Architecture & Planning
+  * Undergraduate: Bachelor of Architecture & Planning
+  * Postgraduate: M.S. in Landscape & Design
+
+FACULTY: Faculty of ICS (Interdisciplinary Computing Sciences)
+- Department: Computer Science
+  * Undergraduate: B.S. Computer Science
+- Department: Artificial Intelligence
+  * Undergraduate: B.S. Artificial Intelligence
+- Department: Cyber Security
+  * Undergraduate: B.S. Cyber Security
+- Department: Data Science
+  * Undergraduate: B.S. Data Science
+
+FACULTY: Faculty of BAS (Basic & Applied Sciences)
+- Department: Chemistry
+  * Undergraduate: B.S. Chemistry
+- Department: Mathematics
+  * Undergraduate: B.S. Mathematics

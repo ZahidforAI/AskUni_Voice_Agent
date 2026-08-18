@@ -1,0 +1,13 @@
+The Department of Software Engineering, NED University, takes pride in being one of the highest ranking departments of the University. It aims to provide quality education and various areas of research, providing in-depth learning of not only tools and techniques for advancements, but skills to build and test proficient software using these technologies, in order to prepare students with the latest emerging fields for various development and research positions in the market or for higher education and to provide solutions to real world problems.
+
+It inculcates a sense of service and leadership in its graduates. Their foundation is such that they can be life-long learners due to the department’s strong emphasis on promoting research in emerging fields such as artificial intelligence, robotics, machine learning, big data, etc. Our graduates are well perceived and sought after by the industry where they have been successful in securing suitable positions.
+
+The department facilitates students and to enhance their practical knowledge has provided 6 highly equipped computer laboratories. These laboritories are accessible at all times to both students and the faculty and are also linked through the state of the art network environment.
+
+Database Lab
+General Purpose Computer Lab
+Graphics Lab>
+AI Lab
+Networks Lab
+Project Lab
+Center for Software Research & Development (CSRD) has also been established, whose aim is to expand the Research and Development Programs of the University, in the areas relating to I.T. & Telecommunication Sector, by conducting various workshops and training boot camps.

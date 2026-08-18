@@ -1,0 +1,35 @@
+INTRODUCTION
+DHA Suffa University is offering a BS in Artificial Intelligence program (AI) that equips students with the necessary knowledge and skills to design, develop, and advance software solutions utilizing the latest advancements. This program empowers students to gain practical experience by creating AI-driven software solutions within state-of-the-art research labs, guided by highly qualified faculty. Our goal is to transform students into leaders who embrace challenges, provide solutions to complex problems, meet industry demands, and produce high-quality research.
+
+The syllabus for the BS in Artificial Intelligence program focuses on developing knowledge in computing, mathematics, computational modeling, machine learning, computer vision, artificial neural networks, and natural language processing. By studying these subjects, students are empowered to solve problems in various domains, such as society, healthcare, agriculture, business, governance, transportation, and education, to mention a few.
+
+The BS Artificial Intelligence program spans four years and consists of a minimum of 130 credit hours, as recommended by the Higher Education Commission (HEC).
+
+
+
+MISSION
+To equip students with cutting-edge knowledge and skills in artificial intelligence, fostering innovation, creativity, and the ability to develop intelligent and ethical solutions for diverse real-world challenges.
+
+View More
+Artificial Intelligence students will learn to
+Analysis, critically review and synthesis theories and techniques from the field of artificial intelligence
+Apply problem solving skills and theoretical knowledge to the design and building of innovative solutions in the area of artificial intelligence
+Analytically evaluate the application of theories and techniques from the field of artificial intelligence
+Critically estimate, document and communicate ethical, legal and social issues affecting the use of technologies
+Explorer and respond to social and ethical issues arising from the application of artificial intelligence technologies in the global economy.
+Career Path
+Machine Learning Engineers
+Robotics Engineers
+Computer Vision Engineers
+Data Scientists
+Prospective Firms/Companies
+Autonomous Vehicle Navigation
+Medical Testing and Diagnosis
+Agriculture
+Healthcare
+Customer Service
+Customer Experience and Call Centers
+Education
+Cybersecurity
+Combating Retail Fraud
+Content Creation

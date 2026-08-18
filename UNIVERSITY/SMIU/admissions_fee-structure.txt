@@ -1,0 +1,596 @@
+FEE STRUCTURE (Effective from Spring 2024)
+Note: All amounts are in Pakistani Rupees (PKR).
+
+--- FEE CATEGORIES AND DESCRIPTIONS ---
+1.  Admission Fee: A one-time fee payable only at the time of admission.
+2.  Security Deposit: A one-time refundable deposit payable at the time of admission.
+3.  Registration / Enrollment Fee: A recurring fee payable in every semester.
+4.  Lab / Library Fund: A recurring fee payable in every semester.
+5.  Student Activity Fee: A recurring fee payable in every semester.
+6.  Examination Fee: A per-course fee charged for each course enrolled.
+7.  Tuition Fee: A per-credit-hour fee. Total tuition = (Credit Hours) x (Tuition Fee per Credit Hour).
+8.  First Semester Fee / Fee at Admission: The total amount due at the start of the first semester. This includes Admission Fee, Security Deposit, and all semester-specific fees (Registration, Lab/Library, Student Activity, Examination for all courses, and Tuition for all credit hours).
+
+--- UNDERGRADUATE PROGRAMS (BS/BBA/B.Ed) ---
+
+*Program: BS-Computer Science (Morning)*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 3,000 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 3,000 (per credit hour)
+- First Semester Credit Hours: 16
+- First Semester Courses: 5
+- **First Semester Total Fee: 78,750**
+
+*Program: BS-Computer Science (Evening)*
+- Admission Fee: 8,000
+- Security Deposit: 10,000
+- Registration Fee: 1,000 (per semester)
+- Lab/Library Fund: 3,000 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 500 (per course)
+- Tuition Fee: 3,000 (per credit hour)
+- First Semester Credit Hours: 16
+- First Semester Courses: 5
+- **First Semester Total Fee: 74,500**
+
+*Program: BS-Software Engineering (Morning)*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 3,000 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 3,000 (per credit hour)
+- First Semester Credit Hours: 18
+- First Semester Courses: 6
+- **First Semester Total Fee: 85,500**
+
+*Program: BS-Software Engineering (Evening)*
+- Admission Fee: 8,000
+- Security Deposit: 10,000
+- Registration Fee: 1,000 (per semester)
+- Lab/Library Fund: 3,000 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 500 (per course)
+- Tuition Fee: 3,000 (per credit hour)
+- First Semester Credit Hours: 18
+- First Semester Courses: 6
+- **First Semester Total Fee: 81,000**
+
+*Program: BS-Artificial Intelligence*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 2,300 (per credit hour)
+- First Semester Credit Hours: 16
+- First Semester Courses: 5
+- **First Semester Total Fee: 67,050**
+
+*Program: BS-Information Technology*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 3,000 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 2,300 (per credit hour)
+- First Semester Credit Hours: 16
+- First Semester Courses: 5
+- **First Semester Total Fee: 67,550**
+
+*Program: BS-Cyber Security*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 3,000 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 2,300 (per credit hour)
+- First Semester Credit Hours: 16
+- First Semester Courses: 5
+- **First Semester Total Fee: 67,550**
+
+*Program: BS-Data Science*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 3,000 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 2,300 (per credit hour)
+- First Semester Credit Hours: 16
+- First Semester Courses: 5
+- **First Semester Total Fee: 67,550**
+
+*Program: BS-Mathematics*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 17
+- First Semester Courses: 6
+- **First Semester Total Fee: 56,500**
+
+*Program: BS-Environmental Sciences*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 3,000 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 18
+- First Semester Courses: 6
+- **First Semester Total Fee: 58,500**
+
+*Program: BS-Food Science and Technology*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 3,000 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 2,200 (per credit hour)
+- First Semester Credit Hours: 18
+- First Semester Courses: 6
+- **First Semester Total Fee: 71,100**
+
+*Program: BS-Climate Change*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 3,000 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 18
+- First Semester Courses: 6
+- **First Semester Total Fee: 58,500**
+
+*Program: BBA (Morning)*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 2,500 (per credit hour)
+- First Semester Credit Hours: 17
+- First Semester Courses: 6
+- **First Semester Total Fee: 73,500**
+
+*Program: BBA (Evening)*
+- Admission Fee: 8,000
+- Security Deposit: 10,000
+- Registration Fee: 1,000 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 500 (per course)
+- Tuition Fee: 2,500 (per credit hour)
+- First Semester Credit Hours: 17
+- First Semester Courses: 6
+- **First Semester Total Fee: 69,000**
+
+*Program: BBA-2 years (Morning)*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 2,500 (per credit hour)
+- First Semester Credit Hours: 18
+- First Semester Courses: 6
+- **First Semester Total Fee: 76,000**
+
+*Program: BBA-2 years (Evening)*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 2,500 (per credit hour)
+- First Semester Credit Hours: 18
+- First Semester Courses: 6
+- **First Semester Total Fee: 76,000**
+
+*Program: BS-Accounting & Finance*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 2,200 (per credit hour)
+- First Semester Credit Hours: 18
+- First Semester Courses: 6
+- **First Semester Total Fee: 70,600**
+
+*Program: BS-Banking & Finance*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 17
+- First Semester Courses: 6
+- **First Semester Total Fee: 56,500**
+
+*Program: BS-Public Administration*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 14
+- First Semester Courses: 5
+- **First Semester Total Fee: 51,250**
+
+*Program: BS-Commerce*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 18
+- First Semester Courses: 6
+- **First Semester Total Fee: 58,000**
+
+*Program: BS-Economics*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 17
+- First Semester Courses: 6
+- **First Semester Total Fee: 56,500**
+
+*Program: BS-Entrepreneurship*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 18
+- First Semester Courses: 6
+- **First Semester Total Fee: 58,000**
+
+*Program: BS-Media Studies*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 3,000 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 2,000 (per credit hour)
+- First Semester Credit Hours: 17
+- First Semester Courses: 6
+- **First Semester Total Fee: 65,500**
+
+*Program: BS-Sociology*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 17
+- First Semester Courses: 6
+- **First Semester Total Fee: 56,500**
+
+*Program: BS-Development Studies*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 17
+- First Semester Courses: 6
+- **First Semester Total Fee: 56,500**
+
+*Program: BS-English*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 17
+- First Semester Courses: 6
+- **First Semester Total Fee: 56,500**
+
+*Program: BS-Education*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 17
+- First Semester Courses: 6
+- **First Semester Total Fee: 56,500**
+
+*Program: B.Ed. (4 years)*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 17
+- First Semester Courses: 6
+- **First Semester Total Fee: 56,500**
+
+*Program: B.Ed. (2 years)*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 21
+- First Semester Courses: 7
+- **First Semester Total Fee: 63,250**
+
+*Program: B.Ed. (1.5 years)*
+- Admission Fee: 10,000
+- Security Deposit: 10,000
+- Registration Fee: 1,500 (per semester)
+- Lab/Library Fund: 2,500 (per semester)
+- Student Activity Fee: 2,500 (per semester)
+- Examination Fee: 750 (per course)
+- Tuition Fee: 1,500 (per credit hour)
+- First Semester Credit Hours: 18
+- First Semester Courses: 6
+- **First Semester Total Fee: 58,000**
+
+--- GRADUATE PROGRAMS (MBA/MS/M.Phil) ---
+
+*Program: MBA (2.5 years)*
+- Admission Fee: 15,000
+- Security Deposit: 10,000
+- Registration Fee: 2,500 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 4,000 (per credit hour)
+- First Semester Credit Hours: 18
+- First Semester Courses: 6
+- **First Semester Total Fee: 111,500**
+
+*Program: MBA (1.5 years)*
+- Admission Fee: 15,000
+- Security Deposit: 10,000
+- Registration Fee: 2,500 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 4,000 (per credit hour)
+- First Semester Credit Hours: 12
+- First Semester Courses: 4
+- **First Semester Total Fee: 85,500**
+
+*Program: MS-Management Sciences*
+- Admission Fee: 15,000
+- Security Deposit: 10,000
+- Registration Fee: 2,500 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 4,000 (per credit hour)
+- First Semester Credit Hours: 12
+- First Semester Courses: 4
+- **First Semester Total Fee: 85,500**
+
+*Program: MS-Public Administration*
+- Admission Fee: 15,000
+- Security Deposit: 10,000
+- Registration Fee: 2,500 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 4,000 (per credit hour)
+- First Semester Credit Hours: 12
+- First Semester Courses: 4
+- **First Semester Total Fee: 85,500**
+
+*Program: MS-Computer Science*
+- Admission Fee: 15,000
+- Security Deposit: 10,000
+- Registration Fee: 2,500 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 4,000 (per credit hour)
+- First Semester Credit Hours: 9
+- First Semester Courses: 3
+- **First Semester Total Fee: 72,500**
+
+*Program: MS-Mathematics*
+- Admission Fee: 15,000
+- Security Deposit: 10,000
+- Registration Fee: 2,500 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 4,000 (per credit hour)
+- First Semester Credit Hours: 12
+- First Semester Courses: 4
+- **First Semester Total Fee: 85,500**
+
+*Program: MS-Environmental Sciences*
+- Admission Fee: 15,000
+- Security Deposit: 10,000
+- Registration Fee: 2,500 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 4,000 (per credit hour)
+- First Semester Credit Hours: 12
+- First Semester Courses: 4
+- **First Semester Total Fee: 85,500**
+
+*Program: MS-Media Studies*
+- Admission Fee: 15,000
+- Security Deposit: 10,000
+- Registration Fee: 2,500 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 4,000 (per credit hour)
+- First Semester Credit Hours: 12
+- First Semester Courses: 4
+- **First Semester Total Fee: 85,500**
+
+*Program: M.Phil. Education*
+- Admission Fee: 15,000
+- Security Deposit: 10,000
+- Registration Fee: 2,500 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 4,000 (per credit hour)
+- First Semester Credit Hours: 12
+- First Semester Courses: 4
+- **First Semester Total Fee: 85,500**
+
+*Program: MS-Linguistics*
+- Admission Fee: 15,000
+- Security Deposit: 10,000
+- Registration Fee: 2,500 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 4,000 (per credit hour)
+- First Semester Credit Hours: 12
+- First Semester Courses: 4
+- **First Semester Total Fee: 85,500**
+
+*Program: MS-Development Studies*
+- Admission Fee: 15,000
+- Security Deposit: 10,000
+- Registration Fee: 2,500 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 2,000 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 4,000 (per credit hour)
+- First Semester Credit Hours: 12
+- First Semester Courses: 4
+- **First Semester Total Fee: 85,500**
+
+--- DOCTORAL PROGRAMS (PhD) ---
+
+*Note for all PhD programs: Student Activity Fee is 0.*
+
+*Program: PhD-Computer Science*
+- Admission Fee: 25,000
+- Security Deposit: 10,000
+- Registration Fee: 12,000 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 0 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 5,000 (per credit hour)
+- First Semester Credit Hours: 9
+- First Semester Courses: 3
+- **First Semester Total Fee: 99,000**
+
+*Program: PhD-Artificial Intelligence*
+- Admission Fee: 25,000
+- Security Deposit: 10,000
+- Registration Fee: 12,000 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 0 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 5,000 (per credit hour)
+- First Semester Credit Hours: 9
+- First Semester Courses: 3
+- **First Semester Total Fee: 99,000**
+
+*Program: PhD-Mathematics*
+- Admission Fee: 25,000
+- Security Deposit: 10,000
+- Registration Fee: 12,000 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 0 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 5,000 (per credit hour)
+- First Semester Credit Hours: 9
+- First Semester Courses: 3
+- **First Semester Total Fee: 99,000**
+
+*Program: PhD-Environmental Sciences*
+- Admission Fee: 25,000
+- Security Deposit: 10,000
+- Registration Fee: 12,000 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 0 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 5,000 (per credit hour)
+- First Semester Credit Hours: 9
+- First Semester Courses: 3
+- **First Semester Total Fee: 99,000**
+
+*Program: PhD-Management Sciences*
+- Admission Fee: 25,000
+- Security Deposit: 10,000
+- Registration Fee: 12,000 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 0 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 5,000 (per credit hour)
+- First Semester Credit Hours: 9
+- First Semester Courses: 3
+- **First Semester Total Fee: 99,000**
+
+*Program: PhD-Education*
+- Admission Fee: 25,000
+- Security Deposit: 10,000
+- Registration Fee: 12,000 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 0 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 5,000 (per credit hour)
+- First Semester Credit Hours: 9
+- First Semester Courses: 3
+- **First Semester Total Fee: 99,000**
+
+*Program: PhD-Media Studies*
+- Admission Fee: 25,000
+- Security Deposit: 10,000
+- Registration Fee: 12,000 (per semester)
+- Lab/Library Fund: 4,000 (per semester)
+- Student Activity Fee: 0 (per semester)
+- Examination Fee: 1,000 (per course)
+- Tuition Fee: 5,000 (per credit hour)
+- First Semester Credit Hours: 9
+- First Semester Courses: 3
+- **First Semester Total Fee: 99,000**
