@@ -8,6 +8,16 @@ import asyncio
 import json
 import re
 import os
+import sys
+
+# Ensure UTF-8 output encoding on Windows consoles
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+        sys.stderr.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
+
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
@@ -591,6 +601,12 @@ def clean_text_for_tts(text):
     if not text:
         return ""
     
+    # Normalize unicode special characters
+    text = text.replace('\u202f', ' ').replace('\u00a0', ' ')
+    text = text.replace('\u2011', '-').replace('\u2013', '-').replace('\u2014', ' ')
+    text = text.replace('\u2018', "'").replace('\u2019', "'")
+    text = text.replace('\u201c', '"').replace('\u201d', '"')
+    
     # Remove long sequences of underscores, dashes, equals, asterisks (3 or more)
     text = re.sub(r'[_]{3,}', '', text)
     text = re.sub(r'[-]{3,}', '', text)
@@ -742,13 +758,17 @@ async def websocket_endpoint(websocket: WebSocket):
                     try:
                         raw_response = get_groq_response(user_text)
                         clean_response = clean_text_for_tts(raw_response)
-                        print(f"Assistant: {clean_response[:100]}...")
+                        try:
+                            print(f"Assistant: {clean_response[:100]}...")
+                        except Exception:
+                            pass
                         await websocket.send_json({
                             "type": "response",
                             "text": clean_response
                         })
                     except Exception as e:
-                        print(f"RAG Error: {e}")
+                        import traceback
+                        traceback.print_exc()
                         await websocket.send_json({
                             "type": "response",
                             "text": "I apologize, but I encountered an error while searching for information."
